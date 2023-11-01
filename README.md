@@ -33,7 +33,7 @@ To use the OpenAI GPT-3.5 Turbo Fine-Tuning tool, follow these steps:
 
 1. Obtain an OpenAI API token. You can sign up for an API key at <https://platform.openai.com/account/api-keys> .
 
-2. Prepare your training data file in a text format.
+2. Prepare your training data file in a jsonl format.
 
 3. Run the fine-tuning tool with the following command:
 
