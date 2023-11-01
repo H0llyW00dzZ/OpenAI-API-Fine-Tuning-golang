@@ -31,7 +31,7 @@ Previously, I wrote in Python, but now I'm rewriting it in Golang. This reposito
 
 To use the OpenAI GPT-3.5 Turbo Fine-Tuning tool, follow these steps:
 
-1. Obtain an OpenAI API token. You can sign up for an API key at \[https://platform.openai.com/account/api-keys\](API keys).
+1. Obtain an OpenAI API token. You can sign up for an API key at <https://platform.openai.com/account/api-keys> .
 
 2. Prepare your training data file in a text format.
 
