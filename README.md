@@ -1,6 +1,8 @@
 # Fine-tuning OpenAI API GPT-3.5 Turbo model Uploader
 
-![Language: Go](https://img.shields.io/badge/Language-Go-blue.svg)Previously, I wrote in Python, but now I'm rewriting it in Golang. This repository contains a Go implementation for fine-tuning the OpenAI GPT-3.5 Turbo model, utilizing the OpenAI API.
+![Language: Go](https://img.shields.io/badge/Language-Go-blue.svg)
+
+Previously, I wrote in Python, but now I'm rewriting it in Golang. This repository contains a Go implementation for fine-tuning the OpenAI GPT-3.5 Turbo model, utilizing the OpenAI API.
 
 ## Installation
 
